@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MIND MAP
 
 MIND MAP is a student planning and scheduling system designed to help university students manage classes, tasks, extracurricular activities to schedule and add reminder efficiently. 
@@ -77,3 +78,9 @@ Possible future improvements include routine extraction from uploaded images, co
 ## License
 
 This project is developed for academic purposes. See the `LICENSE` file for details.
+=======
+# mindmap-v1
+AI-assisted student planning and scheduling app
+
+@copyright 2026 
+>>>>>>> 86aff85ce6c966c1455583919870686b9c9ec926
