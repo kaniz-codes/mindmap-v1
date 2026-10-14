@@ -70,17 +70,16 @@ Features are developed, tested, reviewed, and improved incrementally through sho
 
 | Name | Student ID | Role |
 |---|---:|---|
-| **Kaniz Fatema** | 20245103154 | Project Lead, Ideation, UI/UX Design |
-| Md Sajidul Islam | 20245103199 | Database Integration |
-| Shawon Hossain | 20245103177 | Testing |
-| Dolon | 20245103004 | Documentation and User Manual |
+| **[Kaniz Fatema](https://github.com/kaniz-codes)** | 20245103154 | Project Lead, Ideation, UI/UX Design, Development |
+| [Md Sajidul Islam](https://github.com/shadidulislam199-lgtm) | 20245103199 | Database Integration |
+| [Shawon Hossain](https://github.com/AxionParadox) | 20245103177 | Interaction and Testing |
+| [Dolon](https://github.com/khadizadolon) | 20245103004 | Testing and User Manual |
 
 ## Faculty Supervisor
 
-**Nahida Akter Tanjila**  
-Lecturer  
-Department of Computer Science & Engineering  
-Bangladesh University of Business and Technology
+**[Nahida Akter Tanjila](https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/NAT)**  
+Lecturer, Department of Computer Science & Engineering  
+Bangladesh University of Business and Technology (BUBT)
 
 ## Academic Information
 
